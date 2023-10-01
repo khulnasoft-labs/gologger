@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/mholt/archiver"
-	"github.com/khulnasoft-labs/gologger/levels"
+	"github.com/khulnasoft-lab/gologger/levels"
 	"gopkg.in/djherbis/times.v1"
 )
 

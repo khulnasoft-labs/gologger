@@ -1,7 +1,7 @@
 package writer
 
 import (
-	"github.com/khulnasoft-labs/gologger/levels"
+	"github.com/khulnasoft-lab/gologger/levels"
 )
 
 // Writer type writes data to an output type.

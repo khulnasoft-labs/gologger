@@ -10,8 +10,8 @@ package main
 import (
 	"strconv"
 
-	"github.com/khulnasoft-labs/gologger"
-	"github.com/khulnasoft-labs/gologger/levels"
+	"github.com/khulnasoft-lab/gologger"
+	"github.com/khulnasoft-lab/gologger/levels"
 )
 
 func main() {
@@ -28,4 +28,4 @@ func main() {
 }
 ```
 
-gologger is made with 🖤 by the [khulnasoft-labs](https://khulnasoft-labs.io) team.
+gologger is made with 🖤 by the [khulnasoft-lab](https://khulnasoft-lab.io) team.

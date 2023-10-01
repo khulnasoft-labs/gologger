@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-labs/gologger/formatter"
-	"github.com/khulnasoft-labs/gologger/levels"
-	"github.com/khulnasoft-labs/gologger/writer"
+	"github.com/khulnasoft-lab/gologger/formatter"
+	"github.com/khulnasoft-lab/gologger/levels"
+	"github.com/khulnasoft-lab/gologger/writer"
 )
 
 var (

@@ -1,6 +1,6 @@
 package formatter
 
-import "github.com/khulnasoft-labs/gologger/levels"
+import "github.com/khulnasoft-lab/gologger/levels"
 
 // Formatter type format raw logging data into something useful
 type Formatter interface {
