@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/gologger
+module github.com/khulnasoft-lab/gologger
 
 go 1.19
 
